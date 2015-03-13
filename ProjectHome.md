@@ -1,0 +1,1 @@
+Using this module you can add a field to any content type that allows a user to enter one or more of their World of Warcraft Characters. When displayed, the character name can even link to the WoW Armory.
